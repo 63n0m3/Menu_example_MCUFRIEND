@@ -1,3 +1,6 @@
+// Video tutorial explaining this example:
+// https://youtu.be/TekFq-HGAyI
+
 #include <Adafruit_GFX.h>
 #include <MCUFRIEND_kbv.h>
 MCUFRIEND_kbv tft;
